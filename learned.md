@@ -1,1 +1,1 @@
-I learned about forking a repository, creating a new branch, making commits, and pushing changes!
+Hi there! I just wrapped up the getting-started guide, and it was such a great introduction to the workflow. I learned all about how to fork a repository, safely experiment by creating a new branch, and confidently checkpoint my progress with commits and pushes. I’m really excited to start practicing these skills on collaborative projects next!
